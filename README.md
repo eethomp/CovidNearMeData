@@ -1,5 +1,5 @@
 # CovidNearMeData
-Data tables used for CovidNearMe web site
+These are some of the data tables used for our https://CovidNearMe.org web site.
 
 US State populations are 2019 estimates from the US Census Bureau.
 
