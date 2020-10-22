@@ -1,59 +1,69 @@
 date,url
-2020-10-21, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/b132fe03e4a8d03b0c01b191ed2535eb969315ae/data/cases.csv
-2020-10-20, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/acceff9754413db0bf620ae80b1538d9e8539b7f/data/cases.csv
-2020-10-19, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/d798502f3b99b947f03a08f0ddf25884a9a5bd66/data/cases.csv
-2020-10-18, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/da3e60ecd7adcef9a905c82e2cf9cd2e9a45bbec/data/cases.csv
-2020-10-17, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/98befbbae0734137bce9f50b3eb8514733f23515/data/cases.csv
-2020-10-16, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/cd28a66973210c3c79e7054794937855a5f2e732/data/cases.csv
-2020-10-15, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/f82a6f01b231895f8e37acbeff518c3c982594f8/data/cases.csv
-2020-10-14, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/07f1530d9d65fff3806087b234538f5210120f90/data/cases.csv
-2020-10-13, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/0e99cd3c71a1d92f5f50a81b52e959cebb4f2045/data/cases.csv
-2020-10-12, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/eeefb051ddc01ecee3cd1f3f19798a991e20c4bd/data/cases.csv
-2020-10-11, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/9e29197958b2c17a9a298c7fd64fa02a1548b113/data/cases.csv
-2020-10-10, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/1b4302fdfad084e46eb47cccb17d1544c85805f2/data/cases.csv
-2020-10-09, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/e0ebe5db8526a46fdc047eecc888e60bd85ac576/data/cases.csv
-2020-10-08, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/39cf5d8afba51c3852dced40fea6a28e68c0af37/data/cases.csv
-2020-10-07, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/15e86b38794207c7ded7a9c0911d223d3b3ad4e5/data/cases.csv
-2020-10-06, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/be842c9dbcc505258489c8e791a28de4538f2f30/data/cases.csv
-2020-10-05, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/9ff0b3cc44e2e067b2360cb562fb4438b4e59fec/data/cases.csv
-2020-10-04, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/75e8dc0c0db68ec89f2c325baba878a559c36176/data/cases.csv
-2020-10-03, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/3e78e456855535acff13c2630148291a2a568de5/data/cases.csv
-2020-10-02, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/4a082628d1eb7db699c62e475127b648fc86ec82/data/cases.csv
-2020-10-01, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/0a0aa982e47b881895a6a5fa4c1e1d3788966eeb/data/cases.csv
-2020-09-30, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/b3b6c95a8146d0728f98a68e88541f18672502f7/data/cases.csv
-2020-09-29, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/9249a1f3bd2d58a2a035119c9f36dfcb80acecb9/data/cases.csv
-2020-09-28, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/a3579686947e62034cea9cdfdcde5243a7220833/data/cases.csv
-2020-09-27, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/703dad784a1bb5cc98569ce17ad9e766488866eb/data/cases.csv
-2020-09-26, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/740d5710475f7a76a03ca9f0bc1cdee649105c36/data/cases.csv
-2020-09-25, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/c1d0d4d8bd17a95a0f413989730eaf0fa25076d8/data/cases.csv
-2020-09-24, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/ea0a417bab8e751984a32ac8d392c82f0ec1134f/data/cases.csv
-2020-09-23, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/8a1ce2b1d714544665aec035cbdcffb39d7cdb2e/data/cases.csv
-2020-09-22, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/588840bd731513dbdaa6a50ff33f67b140e1c501/data/cases.csv
-2020-07-02, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/e2c1a1cdb9cb493e7086edf61fc41cc30ad63dea/data/cases.csv
-2020-07-01, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/a430cf511dde93a8ebcb7734cb6e7cceb6832bb1/data/cases.csv
-2020-06-30, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/87e85d9303ed07296817463afdfebb7e71426908/data/cases.csv
-2020-04-26, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/392776ad8ffe9bfd8c8ed0c046db55bef29ba35c/data/cases.csv
-2020-04-13, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/32784908e1913d203b04e54bc4ace3b6cc7209ce/data/cases.csv
-2020-04-12, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/d4454be6b9f6d25ddf9a579211ccc1e54a023658/data/cases.csv
-2020-04-11, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/b54c1c72d84a2ac9b77be6087dfedf2a4342c564/data/cases.csv
-2020-04-10, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/3343215e7467d7fe3a634ea42472c755a384b427/data/cases.csv
-2020-04-09, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/81ae2b2c13b50eb2e3172b862e44fd7f37e114af/data/cases.csv
-2020-04-08, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/0fa1503d567e397c9cb5dfa26e6369cc468b4936/data/cases.csv
-2020-04-07, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/6952bfba3f5bb1030823645882046944351ca49e/data/cases.csv
-2020-04-06, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/2ac10c56208af23ac0212d691b7d6be9994f1b31/data/cases.csv
-2020-04-05, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/1e3684893c0f037db45d560d29cdd6ea12bee4af/data/cases.csv
-2020-04-04, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/75b2325d5fbb1351b0771b95fb4b6e3fe75006ac/data/cases.csv
-2020-04-03, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/a513a125865de6a5db87e431180c8d9d671a382e/data/cases.csv
-2020-04-02, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/4a41c67adeffb63a04015e7f9ff01774a63ff35c/data/cases.csv
-2020-04-01, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/712a206a52d295f492b81c4b565a9dbdaeacc404/data/cases.csv
-2020-03-31, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/01354cff49e94806d6e21be3b34b3563416213e6/data/cases.csv
-2020-03-30, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/a11e8409cf2e38ac5971164e3403722657916264/data/cases.csv
-2020-03-29, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/d2c621a2c04a238715c8c1343af91dfbd4b56c6f/data/cases.csv
-2020-03-28, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/888ad6435a49dd8c6d4ecb672b1774e0e3e29c2e/data/cases.csv
-2020-03-27, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/29d867bdc2c078a94365c2c11e2a0307a88dd56b/data/cases.csv
-2020-03-26, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/e226f6cf45c26a1bce461aa08cc28b6426fdbca4/data/cases.csv
-2020-03-25, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/e484554022b90b9a3adf5818fbb2a306a30557cb/data/cases.csv
-2020-03-24, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/453b4f6a607d4e884c1599639fe73c52fb11c83a/data/cases.csv
-2020-03-23, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/865d07a2cbec1e5de9d377c25e6c57c2e71657ff/data/cases.csv
-2020-03-22, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/23d137e0a4c1f5e83123768bef1935707e343b13/data/cases.csv
-2020-03-21, https://raw.githubusercontent.com/CSSEGISandData/COVID-19/31c7fc9c1fbe0907db71ce2082497adf4efd713a/data/cases.csv
+2020-10-21,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/b132fe03e4a8d03b0c01b191ed2535eb969315ae/data/cases.csv
+2020-10-20,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/acceff9754413db0bf620ae80b1538d9e8539b7f/data/cases.csv
+2020-10-19,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/d798502f3b99b947f03a08f0ddf25884a9a5bd66/data/cases.csv
+2020-10-18,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/da3e60ecd7adcef9a905c82e2cf9cd2e9a45bbec/data/cases.csv
+2020-10-17,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/98befbbae0734137bce9f50b3eb8514733f23515/data/cases.csv
+2020-10-16,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/cd28a66973210c3c79e7054794937855a5f2e732/data/cases.csv
+2020-10-15,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/f82a6f01b231895f8e37acbeff518c3c982594f8/data/cases.csv
+2020-10-14,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/07f1530d9d65fff3806087b234538f5210120f90/data/cases.csv
+2020-10-13,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/0e99cd3c71a1d92f5f50a81b52e959cebb4f2045/data/cases.csv
+2020-10-12,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/eeefb051ddc01ecee3cd1f3f19798a991e20c4bd/data/cases.csv
+2020-10-11,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/9e29197958b2c17a9a298c7fd64fa02a1548b113/data/cases.csv
+2020-10-10,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/1b4302fdfad084e46eb47cccb17d1544c85805f2/data/cases.csv
+2020-10-09,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/e0ebe5db8526a46fdc047eecc888e60bd85ac576/data/cases.csv
+2020-10-08,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/39cf5d8afba51c3852dced40fea6a28e68c0af37/data/cases.csv
+2020-10-07,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/15e86b38794207c7ded7a9c0911d223d3b3ad4e5/data/cases.csv
+2020-10-06,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/be842c9dbcc505258489c8e791a28de4538f2f30/data/cases.csv
+2020-10-05,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/9ff0b3cc44e2e067b2360cb562fb4438b4e59fec/data/cases.csv
+2020-10-04,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/75e8dc0c0db68ec89f2c325baba878a559c36176/data/cases.csv
+2020-10-03,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/3e78e456855535acff13c2630148291a2a568de5/data/cases.csv
+2020-10-02,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/4a082628d1eb7db699c62e475127b648fc86ec82/data/cases.csv
+2020-10-01,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/0a0aa982e47b881895a6a5fa4c1e1d3788966eeb/data/cases.csv
+2020-09-30,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/b3b6c95a8146d0728f98a68e88541f18672502f7/data/cases.csv
+2020-09-29,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/9249a1f3bd2d58a2a035119c9f36dfcb80acecb9/data/cases.csv
+2020-09-28,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/a3579686947e62034cea9cdfdcde5243a7220833/data/cases.csv
+2020-09-27,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/703dad784a1bb5cc98569ce17ad9e766488866eb/data/cases.csv
+2020-09-26,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/740d5710475f7a76a03ca9f0bc1cdee649105c36/data/cases.csv
+2020-09-25,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/c1d0d4d8bd17a95a0f413989730eaf0fa25076d8/data/cases.csv
+2020-09-24,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/ea0a417bab8e751984a32ac8d392c82f0ec1134f/data/cases.csv
+2020-09-23,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/8a1ce2b1d714544665aec035cbdcffb39d7cdb2e/data/cases.csv
+2020-09-22,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/588840bd731513dbdaa6a50ff33f67b140e1c501/data/cases.csv
+2020-09-21,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/227760e6338b4dd474fb69cc161fd58cb2de8d73/data/cases.csv
+2020-09-20,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/9c93694fb9bda387fec294cace54e40ca1d05892/data/cases.csv
+2020-09-19,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/99f8342ccb665bb84e50ab81f7bf83f107e58451/data/cases.csv
+2020-09-18,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/720b297833e05d198281620c337402502bdf171a/data/cases.csv
+2020-09-17,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/30e99b3ee9d2e0d0ab05edfdbb77460d11716ace/data/cases.csv
+2020-09-16,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/2b07dfcefe81abfa4fe3f2fec3f030e50f6cf875/data/cases.csv
+2020-09-15,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/ae4c28bf146ed7357d49f95477da1a52318d615f/data/cases.csv
+2020-09-14,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/5504fb97e7f0956b8cc4933c54c826c1ad4517eb/data/cases.csv
+2020-09-13,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/8151ccf68fb94d3603043085498fd942686de852/data/cases.csv
+2020-09-12,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/aad75cf9eea1b3aef9090992725570419d3eeb87/data/cases.csv
+2020-07-02,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/e2c1a1cdb9cb493e7086edf61fc41cc30ad63dea/data/cases.csv
+2020-07-01,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/a430cf511dde93a8ebcb7734cb6e7cceb6832bb1/data/cases.csv
+2020-06-30,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/87e85d9303ed07296817463afdfebb7e71426908/data/cases.csv
+2020-04-26,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/392776ad8ffe9bfd8c8ed0c046db55bef29ba35c/data/cases.csv
+2020-04-13,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/32784908e1913d203b04e54bc4ace3b6cc7209ce/data/cases.csv
+2020-04-12,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/d4454be6b9f6d25ddf9a579211ccc1e54a023658/data/cases.csv
+2020-04-11,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/b54c1c72d84a2ac9b77be6087dfedf2a4342c564/data/cases.csv
+2020-04-10,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/3343215e7467d7fe3a634ea42472c755a384b427/data/cases.csv
+2020-04-09,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/81ae2b2c13b50eb2e3172b862e44fd7f37e114af/data/cases.csv
+2020-04-08,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/0fa1503d567e397c9cb5dfa26e6369cc468b4936/data/cases.csv
+2020-04-07,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/6952bfba3f5bb1030823645882046944351ca49e/data/cases.csv
+2020-04-06,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/2ac10c56208af23ac0212d691b7d6be9994f1b31/data/cases.csv
+2020-04-05,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/1e3684893c0f037db45d560d29cdd6ea12bee4af/data/cases.csv
+2020-04-04,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/75b2325d5fbb1351b0771b95fb4b6e3fe75006ac/data/cases.csv
+2020-04-03,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/a513a125865de6a5db87e431180c8d9d671a382e/data/cases.csv
+2020-04-02,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/4a41c67adeffb63a04015e7f9ff01774a63ff35c/data/cases.csv
+2020-04-01,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/712a206a52d295f492b81c4b565a9dbdaeacc404/data/cases.csv
+2020-03-31,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/01354cff49e94806d6e21be3b34b3563416213e6/data/cases.csv
+2020-03-30,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/a11e8409cf2e38ac5971164e3403722657916264/data/cases.csv
+2020-03-29,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/d2c621a2c04a238715c8c1343af91dfbd4b56c6f/data/cases.csv
+2020-03-28,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/888ad6435a49dd8c6d4ecb672b1774e0e3e29c2e/data/cases.csv
+2020-03-27,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/29d867bdc2c078a94365c2c11e2a0307a88dd56b/data/cases.csv
+2020-03-26,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/e226f6cf45c26a1bce461aa08cc28b6426fdbca4/data/cases.csv
+2020-03-25,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/e484554022b90b9a3adf5818fbb2a306a30557cb/data/cases.csv
+2020-03-24,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/453b4f6a607d4e884c1599639fe73c52fb11c83a/data/cases.csv
+2020-03-23,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/865d07a2cbec1e5de9d377c25e6c57c2e71657ff/data/cases.csv
+2020-03-22,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/23d137e0a4c1f5e83123768bef1935707e343b13/data/cases.csv
+2020-03-21,https://raw.githubusercontent.com/CSSEGISandData/COVID-19/31c7fc9c1fbe0907db71ce2082497adf4efd713a/data/cases.csv
